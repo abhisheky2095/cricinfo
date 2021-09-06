@@ -1,5 +1,8 @@
 # cricinfo
 Display live score from cricinfo static xml file.
+Run this command in your node if this library is not already installed
+
+num i xml2js 
 
 To run this just have node environment
 and run the following command from this repository.
